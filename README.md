@@ -6,7 +6,7 @@ This project builds a robust Book Recommendation System leveraging the Book-Cros
 ## Loading and Preprocessing the data 
 This step involves first loading all the files, understanding the data, and then data cleaning and feature engineering are employed to prepare the data for optimal recommendation model performance.
 
-## ** Explorator Data Analysis **
+## Explorator Data Analysis 
 In-depth analysis reveals hidden patterns, user behavior, and book attributes that drive recommendations. This step includes exploring the data, gathering insights and finally visualizing them in order to better understand the data. 
 
 ## Result
